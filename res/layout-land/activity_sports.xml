@@ -34,11 +34,12 @@
             android:layout_weight="0.5" >
         </ListView>
 
+        
         <Button
             android:id="@+id/kopce"
             android:layout_width="0dip"
             android:layout_height="wrap_content"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="50dp"
             android:layout_weight="0.5"
             android:text="@string/btn" />
     </LinearLayout>

@@ -5,6 +5,5 @@
     <string name="action_settings">Settings</string>
     <string name="language">Language</string>
     <string name="podnaslov">Please select an item from the list to read more information about any kind of sport.</string>
-	<string name="obj">Ova kopce ne pravi nisto samo sluzi za objasnuvanje na landscape i portrait</string>
-	<string name="btn">Kopce</string>
+	<string name="btn">Button</string>
 </resources>

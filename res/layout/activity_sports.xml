@@ -30,23 +30,15 @@
         android:layout_weight="1" >
 
     </ListView>
-    <TextView 
-        android:id="@+id/objasnuvanje"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-       	android:layout_marginTop="10dp"
-       	android:text="@string/obj"
-        android:layout_below="@id/lista"
-        />
+   
     <Button 
         android:id="@+id/kopce"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
-        android:layout_marginTop="5dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="10dp"
         android:text="@string/btn"
-        android:layout_below="@id/objasnuvanje"
+        android:layout_below="@id/lista"
         />
 
 </RelativeLayout>
