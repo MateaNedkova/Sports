@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Спортови</string>
+    <string name="action_settings">Карактеристики</string>
+     <string name="language">Јазик</string>
+    <string name="podnaslov">Ве молиме селектирајте ставка од листата за да прочитате подетални информации за конкретен спорт.</string>
+</resources>
