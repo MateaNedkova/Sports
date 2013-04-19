@@ -25,14 +25,14 @@ public final class R {
     }
     public static final class id {
         public static final int action_settings=0x7f080008;
-        public static final int image=0x7f080003;
+        public static final int category=0x7f080003;
         public static final int kopce=0x7f080002;
         public static final int language=0x7f080007;
         public static final int lista=0x7f080001;
         public static final int najava=0x7f080000;
+        public static final int name=0x7f080004;
         public static final int pager=0x7f080005;
         public static final int pager_title_strip=0x7f080006;
-        public static final int text=0x7f080004;
     }
     public static final class layout {
         public static final int activity_sports=0x7f030000;

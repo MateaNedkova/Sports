@@ -8,7 +8,7 @@
 
     <uses-permission android:name="android.permission.INTERNET"/>
 	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <uses-sdk  android:minSdkVersion="3" android:targetSdkVersion="4" />
+    <uses-sdk  android:minSdkVersion="5" android:targetSdkVersion="5" />
 
     <application
         android:allowBackup="true"
@@ -25,6 +25,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <service android:name="mk.ukim.finki.jmm.sports.DownloadService"></service>
     </application>
 
 </manifest>
